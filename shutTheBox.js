@@ -1,6 +1,5 @@
 /* Name: Janak Parajuli(al393628)
 Subject: Programming (2019/2020) Assignment I*/
-//
 
 //First, define a function to turn on all the numbers on the box
 const turnOnNumbers = () => {
